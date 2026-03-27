@@ -28,3 +28,13 @@ ISO 27001
 
 ## Summary
 This project identifies security gaps and provides remediation strategies to improve compliance readiness and security posture.
+
+## Sample Findings
+
+- Identified lack of incident response plan (High Risk)
+- Detected absence of centralized logging (Critical Risk)
+- Found missing asset inventory and access review processes
+
+## Tools & Frameworks
+- ISO 27001 Annex A Controls
+- Risk Assessment Methodology (Impact vs Likelihood)
