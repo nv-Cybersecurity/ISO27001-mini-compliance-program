@@ -49,3 +49,8 @@ This mini compliance program demonstrates ISO 27001 implementation for a fiction
 
 ## Business Impact
 Reduces risk of PHI breaches, improves audit readiness, and strengthens internal controls for the SecureHealth SaaS environment.
+| Finding | Risk Level | Recommended Action |
+|---------|------------|------------------|
+| Missing Incident Response Plan | High | Implement formal IR plan |
+| No Centralized Logging | Critical | Deploy SIEM/log aggregation |
+| Incomplete Asset Inventory | Medium | Conduct full asset review |
