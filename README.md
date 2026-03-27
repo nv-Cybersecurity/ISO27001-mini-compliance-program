@@ -38,3 +38,14 @@ This project identifies security gaps and provides remediation strategies to imp
 ## Tools & Frameworks
 - ISO 27001 Annex A Controls
 - Risk Assessment Methodology (Impact vs Likelihood)
+
+## Project Overview
+This mini compliance program demonstrates ISO 27001 implementation for a fictional SaaS company, SecureHealth. It includes a control matrix, risk register, sample policies, and a system architecture diagram.
+
+## Sample Findings
+- Incident Response Plan missing (High Risk)
+- Centralized Logging not implemented (Critical Risk)
+- Asset Inventory & Access Reviews incomplete (Medium Risk)
+
+## Business Impact
+Reduces risk of PHI breaches, improves audit readiness, and strengthens internal controls for the SecureHealth SaaS environment.
